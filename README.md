@@ -1,2 +1,2 @@
 # JetBrains-Academy
-# Easy, Medium, Hard Projects
+Easy, Medium, Hard Projects
